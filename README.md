@@ -3,11 +3,12 @@ This is NCNU CSIE 智慧型行動裝置軟體設計 Final Project.
 ## DEMO screen
 ### Initial UI
   
-  <img width="200" alt="image" src="https://github.com/theyeeche/AndroidStudio_FinalProject_TICTACTOE_1/assets/61655288/5bafee5b-ecba-4a2f-a5e0-3420276eecba">
+<img width="200" alt="image" src="https://github.com/theyeeche/AndroidStudio_FinalProject_TICTACTOE_1/assets/61655288/5bafee5b-ecba-4a2f-a5e0-3420276eecba">
   
 - It also can type name in the editbox.
   
-  <img width="199" alt="image" src="https://github.com/theyeeche/AndroidStudio_FinalProject_TICTACTOE_1/assets/61655288/6669acb4-7076-4ccb-83ae-c7cbf57075f7">
+<img width="199" alt="image" src="https://github.com/theyeeche/AndroidStudio_FinalProject_TICTACTOE_1/assets/61655288/6669acb4-7076-4ccb-83ae-c7cbf57075f7">
+
 ### Interactive UI
 
 - After PRESS the "Play" button, it will display this interface. 
